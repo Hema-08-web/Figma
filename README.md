@@ -2,7 +2,7 @@
 ## Date:12/10/2025
 
 ## AIM:
-To design, develop and deploy a web application for event registration.
+To design, develop and display a web application for event registration.
 
 ## DESIGN STEPS:
 
@@ -685,4 +685,4 @@ body {
 ![alt text](<output image 4.jpg>)
 
 ## RESULT:
-The program to design, develop and deploy a web application for event registration is completed successfully.
+The program to design, develop and display a web application for event registration is completed successfully.
